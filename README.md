@@ -1,1 +1,1 @@
-# CNN_superconductors
+# cnn_supercon
