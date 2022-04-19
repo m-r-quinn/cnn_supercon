@@ -1,3 +1,5 @@
+# most of this code is taken from https://github.com/txie-93/cgcnn with some modification for the project
+
 import argparse
 import os
 import shutil
